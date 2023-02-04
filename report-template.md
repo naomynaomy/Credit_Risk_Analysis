@@ -58,3 +58,5 @@ The steps taken for the analysis were as follows:
 Overall I would recommend using the second machine learning model. The accuracy and recall increased and there was no change in precision. 
 
 
+## Additional Information
+
