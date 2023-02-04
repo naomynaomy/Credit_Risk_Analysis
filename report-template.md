@@ -17,7 +17,7 @@ The goal was to accurately predict the loan status where 0 = Healthy Loan and 1 
 
 The steps taken for the analysis were as follows:
 
-1) Split data to create training and testing datasets.
+1) Split data to create training and testing datasets using `train_test_split`
 
 2) Create a `LogisticRegression` Model
 
