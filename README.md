@@ -60,3 +60,16 @@ Overall I would recommend using the second machine learning model. The accuracy 
 
 ## Additional Information
 
+Evaluation metric results:
+
+Machine Learning Model 1
+
+<img width="792" alt="Screenshot 2023-02-04 at 3 17 59 PM" src="https://user-images.githubusercontent.com/112917950/216793591-7680d8b2-89d8-4177-ba95-4fee652cc612.png">
+
+
+Machine Learning Model 2:
+
+<img width="792" alt="Screenshot 2023-02-04 at 3 18 27 PM" src="https://user-images.githubusercontent.com/112917950/216793600-f83748d0-76b8-45dc-bc7f-eb03d43591a7.png">
+
+
+
