@@ -64,12 +64,12 @@ Evaluation metric results:
 
 Machine Learning Model 1
 
-<img width="792" alt="Screenshot 2023-02-04 at 3 17 59 PM" src="https://user-images.githubusercontent.com/112917950/216793591-7680d8b2-89d8-4177-ba95-4fee652cc612.png">
+<img width="792" alt="Screenshot 2023-02-04 at 3 40 26 PM" src="https://user-images.githubusercontent.com/112917950/216794135-d6306da4-0648-4120-aae7-42fcdc025618.png">
 
 
 Machine Learning Model 2:
 
-<img width="792" alt="Screenshot 2023-02-04 at 3 18 27 PM" src="https://user-images.githubusercontent.com/112917950/216793600-f83748d0-76b8-45dc-bc7f-eb03d43591a7.png">
+<img width="792" alt="Screenshot 2023-02-04 at 3 40 02 PM" src="https://user-images.githubusercontent.com/112917950/216794125-102a0219-e8fd-4684-b224-bdb04bb97181.png">
 
 
 
