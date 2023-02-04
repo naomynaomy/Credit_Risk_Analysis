@@ -42,15 +42,15 @@ The steps taken for the analysis were as follows:
 ## Results
 
 * Machine Learning Model 1:
-  * Accuracy: 94.7% 
-  * Precision: Healthy Loans - 100%, High-Risk Loans 85%
-  * Recall: Healthy Loans - 99%, High-Risk Loans 90%
+  * Accuracy: 96% 
+  * Precision: Healthy Loans - 100%, High-Risk Loans 86%
+  * Recall: Healthy Loans - 99%, High-Risk Loans 93%
 
 
 
 * Machine Learning Model 2 (with oversampled data):
-  * Accuracy: 99.4%
-  * Precision: Healthy Loans - 100%, High-Risk Loans 85%
+  * Accuracy: 99.3%
+  * Precision: Healthy Loans - 100%, High-Risk Loans 86%
   * Recall: Healthy Loans - 99%, High-Risk Loans 99%
 
 ## Summary
